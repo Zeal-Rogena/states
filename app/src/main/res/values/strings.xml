@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">states</string>
+    <string name="show_less">wanna see less</string>
+    <string name="show_more">wanna see more</string>
+</resources>
