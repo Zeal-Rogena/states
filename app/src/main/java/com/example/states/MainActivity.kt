@@ -67,7 +67,7 @@ fun CarsList(
     ),
     images: List<Int> = DataSource().loadImages().map { it.imageResource },
     texts: List<String> = listOf( // Add a list of texts
-        "Famous for BMW and Mercedes",
+        "Famous for BMW and Mercedes not forgetting Porsche",
         "Home of Ferrari and Lamborghini",
         "Known for luxury brands like Rolls-Royce",
         "Muscle cars and trucks",
